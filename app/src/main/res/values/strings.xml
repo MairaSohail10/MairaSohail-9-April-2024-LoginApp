@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="logo">logo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="welcome_to_onboard">Welcome to Onboard</string>
+    <string name="let_s_help_to_meet_up_your_tasks">Let\'s help to meet up your \ntasks.</string>
+    <string name="tasks">tasks.</string>
+    <string name="enter_your_full_name">Enter your full name</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password_">Forgot Password?</string>
+    <string name="enter_your_password_to_get_the_password_reset_link">Enter your password to get the \npassword reset link.</string>
+    <string name="email_address">Email Address</string>
+    <string name="hello_example_com">hello@example.com</string>
+    <string name="password_reset">Password Reset</string>
+    <string name="back_press_button">Back Press Button</string>
+</resources>
